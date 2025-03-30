@@ -3,13 +3,12 @@
 
 - 🔭 I’m currently working on [my 3D portfolio](https://ayus-h1.github.io/)
 
-- 🌱 I’m currently learning **RTmaps, React**
+- 🌱 I’m currently learning **motor control using .NET**
 
 - 👨‍💻 My projects are available [here](https://breezy-condition-19e.notion.site/My-Portfolio-36f8666f5b354d9baad0f2144106c4f4?pvs=4)
 
 - 🚗 Connected and Automated Vehicles at [Ecocar](https://www.macecocar.ca/)
 
-- 🏆 VP Internal @ McMaster Competitive Programming **solving problems and doing workshops**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
