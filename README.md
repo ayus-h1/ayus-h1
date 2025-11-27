@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate Mechatronics Engineering Student at McMaster University.</h3>
 
-- 🔭 I’m currently working on [my 3D portfolio](https://ayus-h1.github.io/)
-
-- 🌱 I’m currently learning **motor control using .NET**
+- 🌱 I’m currently exploring Reinforcement Learrning. 
 
 - 👨‍💻 My projects are available [here](https://breezy-condition-19e.notion.site/My-Portfolio-36f8666f5b354d9baad0f2144106c4f4?pvs=4)
 
